@@ -63,15 +63,12 @@ while True:
 ``` 
 
 ## Outputs:
-![WhatsApp Image 2024-11-15 at 08 19 01_714e8674](https://github.com/user-attachments/assets/8742f232-f893-41be-bf82-d75c1068e032)
-
+![image](https://github.com/user-attachments/assets/b36faf15-a139-48e6-b8b6-c58e629a952c)
 ![WhatsApp Image 2024-11-15 at 08 42 00_6c42b3b4](https://github.com/user-attachments/assets/d5b3285f-066b-4528-9542-41fbe5f0fa23)
 
 ## Simulation Screenshots:
-![WhatsApp Image 2024-11-15 at 08 41 33_a54a6942](https://github.com/user-attachments/assets/6b81b357-89d5-4547-8b2c-a9b8e9d18a55)
-
 ![WhatsApp Image 2024-11-15 at 08 43 00_66e01b30](https://github.com/user-attachments/assets/cd216c01-7ed5-4bab-a47a-5c162f247a19)
-
+![image](https://github.com/user-attachments/assets/4c68de73-5635-4869-a381-1fa16372fbef)
 
 ## Results:
 The sensor data was successfully transferred to the ThingSpeak IoT platform using an API key. The experiment demonstrated how to send data from sensors to an IoT network and visualize it remotely using ThingSpeak. The periodic data updates were successfully logged and displayed on the ThingSpeak platform.
